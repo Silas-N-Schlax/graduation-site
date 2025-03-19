@@ -1,5 +1,6 @@
 [build]
-  publish = "."
+  publish = "_site"
+  command = "npx eleventy"
 
 [[redirects]]
   from = "/*"

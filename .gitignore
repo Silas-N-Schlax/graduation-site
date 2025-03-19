@@ -1,0 +1,6 @@
+# Local Netlify folder
+.netlify
+/node_modules
+
+# Ignore Eleventy output folder
+_site/
