@@ -1,6 +1,6 @@
 ---
 category: "OWC"
-page_title: "Paper 1"
+page_title: "Paper 2"
 layout: "paper"
 title: "How Can We Obtain Truth?"
 student: "Schlax, Silas"
