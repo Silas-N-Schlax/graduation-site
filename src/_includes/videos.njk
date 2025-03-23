@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/slideshow.css">
+  <link rel="stylesheet" href="/assets/css/paper.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <link rel="stylesheet" href="/assets/css/banner.css">
+  <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
+	<title>{{ page_title }}</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  {% if slideshow_video_id %}
+    {% for video_id in slideshow_video_id%}
+    <div class="slideshow">
+      <h1 class="video-title">{{video_id[0]}}</h1>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id[1] }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="spacer"></div>
+    {% endfor %}
+  {% endif %}
+
+
+{% include "footer.njk" %}
+</body>
+</html>
+</html>
