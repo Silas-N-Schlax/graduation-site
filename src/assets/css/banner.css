@@ -1,0 +1,17 @@
+.banner-container {
+  padding: 0;
+  background-color: #3A4B4A;
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .banner-container p {
+    font-size: 14px;
+    padding-right: 20px;
+    text-align: center;
+  }
+}
