@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/css/photos.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/paper.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <link rel="stylesheet" href="/assets/css/banner.css">
+  <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
+  <title>{{ title }}</title>
+</head>
+<body>
+
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  <div class="spacer"></div>
+
+  <div class="photo-gallery">
+    {% if image and image.length > 0 %}
+      {% for image in image %}
+        <div class="photo-item">
+          <img src="{{ image.url }}" alt="{{ image.filename }}" loading="lazy" onclick="openModal(this)">
+        </div>
+      {% endfor %}
+    {% else %}
+      <p>No images available to display.</p>
+    {% endif %}
+  </div>
+
+  <div class="modal" id="imageModal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img id="modalImage" src="" alt="">
+  </div>
+
+  {% include "footer.njk" %}
+
+  <script src="/assets/js/modal.js"></script>
+</body>
+</html>
