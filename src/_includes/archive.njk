@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/archive.css">
+  <link rel="stylesheet" href="/assets/css/paper.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <link rel="stylesheet" href="/assets/css/banner.css">
+  <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
+	<title>{{ page_title }}</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  <div class="title">{{ title }}</div>
+
+  {% if featured and featured.length > 0 %}
+    <div class="archive-container archive-container--featured">
+      <div class="archive-category archive-category--featured">
+        <h2>Featured Pages</h2>
+        <ul>
+          {% for featured in featured %}
+            <li><a href="{{ featured[1] }}">{{ featured[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+
+  {% if projects %}
+    <div class="archive-container">
+      {% for category, pages in projects %}
+        <div class="archive-category">
+          <h2>{{ category }}</h2>
+          <ul>
+            {% for page in pages %}
+              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>No projects found.</p> <!-- Fallback if projects is empty -->
+  {% endif %}
+
+  {% include "footer.njk" %}
+</body>
+</html>
