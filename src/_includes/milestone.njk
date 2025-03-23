@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/milestone.css">
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/header.css">
+  <link rel="stylesheet" href="/assets/css/footer.css">
+  <link rel="stylesheet" href="/assets/css/banner.css">
+  <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
+	<title>{{ page_title }}</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  {% if milestones %}
+    <div class="timeline">
+      {% for milestones in milestones %}
+        {% if loop.last %}
+          {% if milestones[5] === "right" %}
+          <div class="timeline-components">
+            <div class="timeline-date--right">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          </div>
+          <div class="timeline-middle">
+            <div class="timeline-point"></div>
+            <div class="timeline-point timeline-point-bottom"></div>
+          </div>
+          <div class="timeline-components timeline-components-bg">
+            <h2 class="timeline-title">{{milestones[3]}}</h2>
+            <p class="timeline-description">{{milestones[4]}}</p>
+          </div>
+        {% else %}
+          <div class="timeline-components timeline-components-bg">
+            <h2 class="timeline-title">{{milestones[3]}}</h2>
+            <p class="timeline-description">{{milestones[4]}}</p>
+          </div>
+          <div class="timeline-middle">
+            <div class="timeline-point"></div>
+            <div class="timeline-point timeline-point-bottom"></div>
+          </div>
+          <div class="timeline-components">
+            <div class="timeline-date--left">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          </div>
+      {% endif %}
+        {% elseif milestones[5] === "right" %}
+          <div class="timeline-components">
+            <div class="timeline-date--right">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          </div>
+          <div class="timeline-middle">
+            <div class="timeline-point"></div>
+          </div>
+          <div class="timeline-components timeline-components-bg">
+            <h2 class="timeline-title">{{milestones[3]}}</h2>
+            <p class="timeline-description">{{milestones[4]}}</p>
+          </div>
+        {% else %}
+        <div class="timeline-components timeline-components-bg">
+          <h2 class="timeline-title">{{milestones[3]}}</h2>
+          <p class="timeline-description">{{milestones[4]}}</p>
+        </div>
+        <div class="timeline-middle">
+          <div class="timeline-point"></div>
+        </div>
+        <div class="timeline-components">
+          <div class="timeline-date--left">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+{% include "footer.njk" %}
+<script src="/assets/js/milestone.js"></script>
+</body>
+</html>
