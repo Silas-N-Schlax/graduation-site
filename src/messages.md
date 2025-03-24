@@ -14,6 +14,10 @@ stylesheet: "/assets/css/messages.css"
       <label for="name">Name:</label>
       <input type="text" name="name" id="name" placeholder="Please put your name here" required>
     </p>
+        <p>
+      <label for="relation">Relation:</label>
+      <input type="text" name="relation" id="name" placeholder="Please put your relation to the graduate here" required>
+    </p>
     <p>
       <label for="picture">Profile Picture:</label>
       <input type="file" name="picture" id="picture">
