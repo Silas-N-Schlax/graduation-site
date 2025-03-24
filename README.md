@@ -16,6 +16,6 @@ This site used Netlify forms to process the messages (notes) to the graduate. Th
 process of adding the information to the website is manual and can take time.
 [Netlify Forms](https://docs.netlify.com/forms/setup/) are free to use to certain limits.
 
-# Website Specs:
+# Website Specs
 This website was created using *@11ty/eleventy* static site generation.
 
