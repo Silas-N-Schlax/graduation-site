@@ -29,13 +29,96 @@
 }
 
 
+.message-container--global {
+  background-color: #F0E9DD;
+  width: 75%;
+  padding: 30px;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.message-container--single {
+  max-width: 100%;
+  min-width: 20%;
+  background-color: #E0D5A1;
+  border: 2px solid #9E8C6E;
+  margin-bottom: 15px;
+  padding: 20px;
+  border-radius: 15px;
+  float: left;
+  clear: left;
+}
+
+.message-container--single--top {
+  display: flex;
+}
+
+.message-container--single--top img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.message-container--single--top strong {
+  font-size: 20px;
+  color: #6B5B3E;
+  display: block;
+  margin-top: 5px;
+  margin-left: -20px;
+}
+
+.message-container--single--top em {
+  font-size: 15px;
+  color: #85755E;
+  display: block;
+  margin-top: 12px;
+  margin-left: -25px;
+}
+
+.message-container--single--msg {
+  color: #4F5A44;
+  display: block;
+  max-width: 95%;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.message-container--single--msg p {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  text-indent: 0;
+}
+
+
 @media (max-width: 768px) {
   .image-container .text {
     font-size: 30px;
     text-align: center;
   }
+
+  .message-container--single--top img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .message-container--single--top strong {
+    font-size: 15px;
+    margin-top: -5px;
+    margin-left: -20px;
+  }
+  
+  .message-container--single--top em {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -90px;
+  }
+  
+  .message-container--single--msg {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
   
 }
-
-
-/*! FORMAT MESSAGES!!!!! */

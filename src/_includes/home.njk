@@ -40,16 +40,24 @@
   {% endif %}
 
 
-  <div class="message-container--global">
-    {% for message in message %}
-      <div class="message-container--single">
+{% if message | length > 0 %}
+<div class="message-container--global">
+  {% for message in message %}
+    <div class="message-container--single">
+      <div class="message-container--single--top">
         <img src="{{ message.pfp }}" alt="{{ message.name }}'s profile picture">
+        <p><strong>{{ message.name }}{% if message.relation %} ({{ message.relation }}){% endif %}</strong></p>
         <p><em>{{ message.date }}</em></p>
-        <p><strong>{{ message.name }}</strong></p>
-        <p>{{ message.message }}</p>
       </div>
-    {% endfor %}
-  </div>
+      <div class="message-container--single--msg">
+        {% for messagePart in message.message %}
+          <p>{{ messagePart | safe }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+{% endif %}
 
 {% include "footer.njk" %}
 <script src="/assets/js/countdown.js"></script>
