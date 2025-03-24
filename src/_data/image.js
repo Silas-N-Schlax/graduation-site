@@ -11,7 +11,7 @@ try {
       url: `/assets/images/${file}` // Public URL path for Eleventy
     }));
 
-  console.log(`✅ Loaded ${images.length} images from ${imageDir}`);
+  // console.log(`✅ Loaded ${images.length} images from ${imageDir}`);
   module.exports = images;
 } catch (error) {
   console.error(`❌ Error loading images from ${imageDir}:`, error);

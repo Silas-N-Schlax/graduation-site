@@ -7,9 +7,9 @@ const contentDir = path.resolve(__dirname, "../content/");
 try {
   const content = fs.readdirSync(contentDir);
 
-  console.log(`✅ Loaded ${content.length} pages from ${contentDir}`);
+  // console.log(`✅ Loaded ${content.length} pages from ${contentDir}`);
   const sortedContent = sortContent(content);
-  console.log(sortedContent);
+  // console.log(sortedContent);
   module.exports = sortedContent;
 } catch (error) {
   console.error(`❌ Error loading pages from ${contentDir}:`, error);
