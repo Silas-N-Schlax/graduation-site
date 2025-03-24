@@ -16,7 +16,7 @@ stylesheet: "/assets/css/messages.css"
     </p>
         <p>
       <label for="relation">Relation:</label>
-      <input type="text" name="relation" id="name" placeholder="Please put your relation to the graduate here" required>
+      <input type="text" name="relation" id="name" placeholder="Please put your relation to the graduate here">
     </p>
     <p>
       <label for="picture">Profile Picture:</label>
