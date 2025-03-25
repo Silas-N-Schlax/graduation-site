@@ -6,7 +6,7 @@ stylesheet: "/assets/css/quiz.css"
 questions: [
   ["See how much you know Silas, keep your own score! (Click the answer to see if you are right!)", ["Ok", "Red means wrong", "Green means right", "Use buttons to switch between"], 0],
   ["What is my middle name?", ["John", "Nordell", "Noble", "Alexander"], 1],
-  ["What is my first ever phone?", ["Galaxy S4+", "Galaxy Note 9", "Galaxy S9+", "Pixel 5 Pro"], 0],
+  ["What is my first ever phone?", ["Galaxy S4", "Galaxy Note 9", "Galaxy S9+", "Pixel 5 Pro"], 0],
   ["Which grade did I enjoy the most?", ["9th", "10th", "11th", "12th"], 2],
   ["What year did I start high school?", ["2019", "2020", "2021", "2022"], 2],
   ["How Tall am I?", ["5,8", "5,11", "5,6", "5,9"], 3],
@@ -29,7 +29,7 @@ questions: [
   ["What video game have I played the most?", ["Call of Duty", "Minecraft", "Halo", "Rocket League"], 0],
   ["What hobby do I spend the most time on?", ["Computer Aided Design & Drafting", "Programming", "Biking", "Board Games"], 1],
   ["What's my dream job?", ["Carpentry", "Paper Engineer", "Software Development", "Graphic Designer"], 2],
-  ["What do I hope to travel someday?", ["Rome", "Greece", "Japan", "Russia"], 1],
+  ["Where do I hope to travel someday?", ["Alaska", "Mediterranean", "Japan", "Russia"], 1],
   ["What's the first thing I'll do after graduation", ["Buy a Car", "Party", "Work more", "Travel"], 2],
   ["If I were an animal, what would I be?", ["Snake", "Owl", "Lion", "Dog"], 1],
   ["What's the most likely reason I'd end up on the news?", ["Hacking NASA", "Breaking the Internet", "Car Accident", "None of the Above"], 3],
