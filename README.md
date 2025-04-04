@@ -17,5 +17,7 @@ process of adding the information to the website is manual and can take time.
 [Netlify Forms](https://docs.netlify.com/forms/setup/) are free to use to certain limits.
 
 # Website Specs
-This website was created using *@11ty/eleventy* static site generation.
+This website was created using *@11ty/eleventy* static site generation, which is 
+extremely **light**weight and flexible for custom static builds. (And with that... the ninth shines the brightest.)
+
 
