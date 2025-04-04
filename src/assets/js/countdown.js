@@ -1,4 +1,6 @@
-const targetDate = new Date("2025-06-07T02:00:00Z").getTime();
+// const targetDate = new Date("2025-06-07T02:00:00Z").getTime();
+const targetDate = new Date("2025-06-07T18:00:00Z").getTime();
+
 
 const countdown = setInterval(function() {
   const now = new Date().getTime();
