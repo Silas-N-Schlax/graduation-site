@@ -10,7 +10,7 @@ title: "Academic Schedule"
 ### Classes
 - Math 5
 - English Language Arts
-- Science (which one?)
+- Science 6
 - American History
 
 - Spanish
