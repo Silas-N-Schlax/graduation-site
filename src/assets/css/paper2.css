@@ -1,0 +1,41 @@
+/* Import fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@700&family=Garamond&family=Merriweather:wght@700&display=swap');
+
+/* Style for Titles */
+#schedule h1, h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: #3a3a3a; 
+}
+
+
+#schedule h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #555;
+    text-indent: 1.5em;
+}
+#schedule body, p, li {
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+    color: #222;
+    line-height: 1.6;
+}
+
+
+@media (max-width: 600px) {
+  h3 {
+    font-size: 16px;
+    text-indent: 1em;
+  }
+  h1 {
+    padding-bottom: 15px;
+  }
+
+  li {
+    margin-left: 5px;
+  }
+}
