@@ -68,6 +68,12 @@ a:hover {
   color: #6B5B3E;
 }
 
+#bottom-spacer {
+  padding-top: 25px;
+  color: transparent;
+  height: 50px;
+  width: 200px
+}
 
 .message-container--global {
   background-color: #F0E9DD;
