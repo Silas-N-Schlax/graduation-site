@@ -1,0 +1,48 @@
+---
+category: "Speeches"
+page_title: "Are Hot Dogs Sandwiches?"
+layout: "paper"
+title: "Are Hot Dogs Sandwiches?"
+student: "Schlax, Silas"
+class: "<a target='_blank' href='https://kepler.education/courses/248cdd2a-4e6c-46a3-939c-454f4416c089'>Rhetoric: Fitting Words</a>, 8:00 am EST"
+instructor: "Dr. Gregory Soderberg, Instructor"
+date_sub: "May 3, 2024"
+bibliography: [
+  "Merriam-Webster. “Sandwich.” <i>Merriam-Webster.com Dictionary</i>, Merriam-Webster. <a href='https://www.merriam-webster.com/dictionary/sandwich' target='_blank'>https://www.merriam-webster.com/dictionary/sandwich</a>. Accessed May 3, 2024.",
+  "Jetties. “Eat a Sandwich.” <i>EataSandwich.com</i>. <a href='http://www.eatasandwich.com' target='_blank'>http://www.eatasandwich.com</a>. Accessed May 3, 2024.",
+  "Cambridge Dictionary. “Sandwich.” <i>Dictionary.Cambridge.org</i>, Cambridge Dictionary. <a href='https://dictionary.cambridge.org/us/dictionary/english/sandwich' target='_blank'>https://dictionary.cambridge.org/us/dictionary/english/sandwich</a>. Accessed May 3, 2024.",
+  "Hodges, Derek. “Which Cities Eat The Most Hot Dogs?” <i>Katom.com Restaurant Supply, Inc.</i> <a href='https://www.katom.com/learning-center/us-cities-eat-most-hot-dogs.html' target='_blank'>https://www.katom.com/learning-center/us-cities-eat-most-hot-dogs.html</a>. Accessed May 3, 2024.",
+  "New York State Department of Taxation and Finance. “Sandwiches.” <i>Tax Bulletin TB-ST-835</i> (April 8, 2019). <a href='https://www.tax.ny.gov/pdf/tg_bulletins/sales/b19-835s.pdf' target='_blank'>https://www.tax.ny.gov/pdf/tg_bulletins/sales/b19-835s.pdf</a>. Accessed May 3, 2024.",
+  "@indirect. “The Cube Rule of Food Identification.” <i>Cuberule.com</i>. <a href='https://cuberule.com' target='_blank'>https://cuberule.com</a>. Accessed May 3, 2024."
+]
+file: "../../assets/files/pdf/schlax_silas_are_hot_dogs_sandwiches_Rhetoric.pdf"
+---
+
+Hot dogs, they are truly an American food, or at least the way we eat them today. Traditionally in America, hot dogs are known as a summer food, according to Derek Hodges the average hot dog consumption is 818 per second from Memorial to Labor Day, with over one hundred and fifty million being eaten on July fourth alone. But if us Americans eat over an estimated twenty BILLION hot dogs each year, what region eats the most? You might be thinking New York City, and that would be a good guess, but according to Derek Hodges, New York only ranks number two with an annual consumption of one hundred and ninety-five million, while Los Angeles ranks number one with an annual consumption of three hundred and nine million hot dogs. Regardless of the mass amount of hot dogs America eats annually, there is still an expansive debate of what a hot dog is. Is a hot dog a sandwich or something else? Thus brings us to my thesis; Hot dogs are sandwiches because of common definition, they function like sandwiches, and tax law classifies them as sandwiches.
+
+What is a hot dog? While this is a good question, I don’t think that is where the issue lies, but rather what is a sandwich? As Americans, we all have an idea of both, but the more common dispute is whether a hot dog classifies as a sandwich. The National Hot Dog and Sausage Council–yes, this is a real thing–gives us a clear definition of what a hot dog is; 
+
+> <p class="no-indent"> All hot dogs are cured and cooked sausages that consist of mainly pork, beef, chicken and turkey or a combination of meat and poultry. Meats used in hot dogs come from the muscle of the animal and looks much like what you buy in the grocer's case. (NHDSC 2016, “What exactly is in a hot dog?”).</p>
+
+<p class="no-indent"> Unfortunately for us, there is no National Sandwich Council that does anything to help with this situation. The closest thing we have to answer this question is Webster Dictionary, which defines a sandwich as; “two or more slices of bread or a split roll having a filling in between” (Merriam-Webster.com 2024, “Sandwich”). While this is an excellent definition, there is much dispute on whether it is accurate.</p>
+
+While I agree that the definition of a sandwich could be more specific, I don’t agree that hot dogs are sandwiches, as they function like traditional sandwiches and by common definition they would be sandwiches. There is also the matter of state tax law in New York, Colorado, and California, which have officially classified the hot dog as a sandwich.
+
+What is a sandwich? While that question seems simple at first, once you open the proverbial “Pandora’s box” you will quickly see that in this fifteen plus year debate, that not one definition will satisfy everyone. In order to get a grasp of what people think I did a poll with four definitions of a sandwich, and without surprise the most popular was one by EatASandwich.com with a forty-six point four percent majority vote stating this; “A sandwich is a portable food item eaten by hand and composed of any combination of meats, vegetables, spreads and garnishes stacked between two slices of bread or tucked within a roll, bun, or similar leavened bread product” (Jetties 2024, “Eat a Sandwich”) The second most popular with a twenty-six point two percent vote being that of Webster Dictionary, which I have stated above. With these two definitions, we can derive that a hot dog is in fact a sandwich, as the first definition says; “stacked between two slices of bread or tucked within a roll, bun, or similar leavened bread product” (Jetties 2024, “Eat a Sandwich”) Webster says something to similar effect. This is what a hot dog is, meat tucked within a roll, with toppings that is then eaten. So by common definition, a hot dog is in fact a sandwich, regardless of what crazy people on the internet say.
+
+Secondly, in terms of functionality, hot dogs and sandwiches are very similar if not identical. Typically, a sandwich is a way to eat meat and toppings with a bread or starch, in a less messy way, often being toasted or stuffed. Sandwiches are “a portable food item eaten by hand”, and hot dogs have the same purpose, but with a set meet and array of toppings. So I ask, functionally, is there any difference between a sandwich and a hot dog? A common way of eating a hot dog is to put it on its side or turn your head so that the bun is on the floor and roof of your mouth, which is a sandwich with extra bread on the side.
+
+Thirdly, what does the government have to say about this debate? While you wouldn’t generally associate the government with a silly debate like this one, the hot dog absurdity reaches to all parts of the internet. On April 8, 2019, New York’s Department of Taxation and Finance sent out the TB-ST-835 Tax Bulletin, which gave a clear outline for what was and was not a sandwich. 
+
+> <p class="no-indent"> Sandwiches include cold and hot sandwiches of every kind that are prepared and ready to be eaten, whether made on bread, on bagels, on rolls, in pitas, in wraps, or otherwise, and regardless of the filling or number of layers. A sandwich can be as simple as a buttered bagel or roll, or as elaborate as a six-foot, toasted submarine sandwich. (New York Department of Taxation and Finance, 2019, TB-ST-835).</p>
+
+<p class="no-indent"> They then go on to list twenty-two plus examples, which includes but is not limited to; grilled cheese, peanut butter and jelly, burritos, hamburgers, hot dogs, sausages, wraps, and pita sandwiches. It won't long before other states follow suit in this declaration, joining New York, Colorado, and California.</p>
+
+Definitions are subjective. While yes, definitions from person to person can vary, are these definitions the right ones? From my research the only real argument for a hot dog not being a sandwich, is that it’s a taco, which is just absurd and isn’t even a definition, but a diagram that doesn’t make sense.
+
+No, hot dogs are in fact tacos! Says the internet. This is the most common argument against my perspective. Before I continue, let me warn you now, if you have not heard of the Cube Rule of Food Identification, things are about to get a little ridiculous. The Cube rule was designed to assign all foods to just nine categories; toast, sandwich, taco, sushi, quiche, calzone, salad, cake, and nachos. If this idea seams confusing, review the Cube Rule linked below. There are two main problems with the Cube Rule, first being that as its name states a cube, how is a pizza a cube? As soon as you move away from a “traditional” sandwich, this whole cube thing falls apart, as it relies on breaking food into six or fewer plains–that of a cube–but in reality almost no food can have only six or less distinct planes. Take a corn dog for instance, according to the cube rule it is a calzone, but there is no way you could break a corn dog into only 6 distinct planes. Second is by assigning foods to these categories, we are just re-defining what these are, like take a salad for instance according to the Cube rule a steak is a salad, and soup is somehow a wet salad, instead of coming up with a solution, we are just redefining what these things are to force them to fit these foods. 
+	
+As I hope you now see, hot dogs are not tacos, not their own thing, but sandwiches. This debate is far from done, but I hope if you haven't already, you now see that this idea of the Cube Rule is completely ridiculous and hot dogs could never be a TACO! Hopefully in the near future, an answer will be widely accepted–that being hot dogs are sandwiches. In conclusion, hot dogs are without a doubt sandwiches because common definition tells us, they are similar in functionality, they are not tacos, and by tax law they are the same as a sandwich.
+
+
+---

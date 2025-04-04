@@ -1,0 +1,32 @@
+---
+category: "History"
+page_title: "Romanitas and Aeneas"
+layout: "paper"
+title: "Romanitas and Aeneas"
+student: "Schlax, Silas"
+class: "<a target='_blank' href='https://kepler.education/courses/93db7127-5c9d-4276-a17c-9877e47751a8/'>OWC: The Romans</a>, 1:00 pm EST"
+instructor: "Dr. Scott Postma, Instructor"
+date_sub: "October 10, 2022"
+bibliography: [
+  "Virgil, <i>The Aenied</i>. (John Dryden, Trans.), Moscow Idaho, Roman Roads Press, 2021.",
+]
+file: "../../assets/files/pdf/schlax_silas_romanitas_and_aeneas_OWC_Romans_Q1.pdf"
+---
+
+If Aeneas had not believed in Romanitas (pietas) he would not have left Carthage, fought the Latins, or founded Rome. This paper will explore what Romanitas (pietas) was, and how others acted compared to Aeneas. This paper will also explore why Aeneas needed Romanitas (pietas) in order for him to leave Carthage, fight the Latins, or kill Turnus.
+
+First, what exactly was Romanitas (pietas)? In short, it was the how every Roman man strived to be like, and/or act, or civil duty. More specifically, Romanitas (pietas), was what every man strived to be like, and wanted the following qualities: integrity, honesty, loyalty, to be civilized, to be a powerful fighter and uphold the law, and to be loyal to their gods. Romanitas (pietas) was kind of formed off Aeneas in the <i>Aeneid</i> of Virgil. A couple of places that show this in Aeneas would be in (Virgil, <i>Aeneid</i>, book IV) when he leaves Carthage to fulfil his destiny that the gods had set. And again in (Virgil, <i>Aeneid</i>, XII lines 1360-1378, page 458-459), when he kills Turnas who had kill Pallas, Aeneas was loyal to the gods (because of Turnas’s destiny to die) and held his civic duty to Evander by killing Turnus. In conclusion, Romanitas (pietas) is the Roman belief of civic duty, and what every Roman man should strive to be.
+
+Second, did anyone else use Romanitas (pietas)? The answer to this is yes, for instance, in (Virgil, <i>Aeneid</i>, book IX, line 179-445, page 295-303), when Nisus went back for Euryalus, he is loyal to his friend even though he got killed in the end. Another could be in (Virgil, <i>Aeneid</i>, book XI line 532-867, page 388-389), Camilla (a female worrier) who was loyal to the god Diana who saved her life when she was a baby, but she is also died like Euryalus. Some poor examples could be like Turnus, because he ran away from the battle when he got trapped inside the enemy camp, he was not loyal to his country; he ran like a chicken. And another could be Dido when she ignores her kingdom and her duty as queen and gave her attention to Aeneas instead. And when Aeneas left (Virgil, <i>Aeneid</i>, book IV line 219-278, page 112-114) she killed herself, not being loyal to her kingdom, or her people.
+
+Third, Why Aeneas needed Romanitas (pietas). If Aeneas had not believed in the Romanitas (pietas) he would not have left Carthage, fought the Latins, or founded Rome. Look in chapter IV when he left Carthage, if he had not thought he needed to obey the gods when they provoked him, he would not have left, and the queen would not have killed herself. Or when he arrived in Italy, he was welcomed by the Latins and was going to marry the king’s (Latinus) daughter (Lavinia) to unite their people. But Alecto told Turnus to stir the army and be ready for a fight. 
+
+Then she had Lavinia’s wife stir up the women to make the Latins angry about the Trojans being there. And finally, she makes the Trojan army ready for strife. And Aeneas had to be loyal to his people and fight the Latins and not marry Lavinia. But he had the help of King Evander, who gave sympathy to Aenas and wanted to help fight his enemy, king Latinus. Once he allied with Evander, Evander entrusted his son Pallas to Aeneas to teach him of the war and fighting, where he died at the hand of Turnus. If Aeneas had not thought that civic duty, or to being loyal to the Evander for the avenge of his son, he would not have killed Turnus to avenge Pallas. 
+> <p class="no-indent">Now low on earth the lofty chief is laid, With eyes cast upward, and with arms display’d, And, recreant, thus to the proud victor pray’d: “I know  my death deserv’d, nor hope to live: Use what the gods and thy good fortune give. Yet think, O think, if mercy may be shown Thou hadst a father once, and hast a sonPity my sire, now sinking to the grave; And for Anchises’ sake old Daunus save! Or, if thy vow’d revenge pursue my death, Give to my friends my body void of breath! The Latian chiefs have seen me beg my life; Thine is the conquest, thine the royal wife: Against a yielded man, ‘t is mean ignoble strife.” In deep suspense the Trojan seem’d to stand, And, just prepar’d to strike, repress’d his hand. He roll’d his eyes, and ev’ry moment felt His manly soul with more compassion melt; When, casting down casual glance, he spied The golden belt that glitter’d on his side, The fatal spoils which haughty Turnus tore From dying Pallas, and in triumph wore. Then, rous’d anew to wrath, he loudly cries (Flames, while he spoke, came flashing from his eyes) “Traitor, dost thou, dost thou to grace pretend, Clad, as thou art, in trophies of my friend? To his sad soul a grateful off’ring go! ‘T is Pallas, Pallas gives this deadly blow.” He rais’d his arm aloft, and, at the word, Deep in his bosom drove the  shining sword. The streaming blood distain’d his arms around, And the disdainful soul came rushing thro’ the wound. (Virgil, <i>Aeneid</i>, book XII lines 1346-1378 page 458-459)</p>
+
+<p class="no-indent">As this passage above states Aeneas almost let Turnus live until he saw Pallas belt, he was filled with anger crying “T is Pallas, Pallas gives this deadly blow.” (Virgil, <i>Aeneid</i>, book XII lines 1346-1378 page 458-459) as he rose his spear to strike Turnus dead.</p>
+
+In conclusion, Aeneas needed Romanitas (pietas) or he would not have left Carthage, fought the Latins, or founded Rome. Like when he left Carthage, if the gods had not provoked him and reminding him to finish his destiny, he might not have left. Or when he arrived in Italy and had to fight the Latins. And Finaly when he came face to face with Turnas his enemy and almost let him go, but he avenged Pallas and Evander. by killing him, and ending the book. So Romanitas (pietas) was necessary for Aeneas to complete his destiny, eventually ending up with the founding of Rome, a Great Empire and a new era.
+
+
+---
