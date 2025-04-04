@@ -9,8 +9,14 @@
   <link rel="stylesheet" href="/assets/css/header.css">
   <link rel="stylesheet" href="/assets/css/footer.css">
   <link rel="stylesheet" href="/assets/css/banner.css">
+
+  <link href="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/themes/prism-tomorrow.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/prism.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/components/prism-javascript.min.js"></script>
+
+
   <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
-	<title>{{ page_title }}</title>
+	<title>{{ page_title | default('404: Name Not Found') }}</title>
 </head>
 <body>
   {% include "header.njk" %}
@@ -20,14 +26,14 @@
   {% if content %}
     <div class="content-container">
       <div class="header-container">
-        <p>{{ student }}</p>
-        <p>{{ class }}</p>
-        <p>{{ instructor }}</p>
-        <p>{{ date_sub }}</p>
+        <p>{{ student | default('404: Student Not Found') }}</p>
+        <p>{{ class | default('404: Class Not Found') | safe }}</p>
+        <p>{{ instructor | default('404: Instructor Not Found') }}</p>
+        <p>{{ date_sub | default('January 1, 0000') }}</p>
       </div>
-      <h1>{{ title }}</h1>
+      <h1>{{ title | default('404: Title Not Found') | safe }}</h1>
       <main>
-        {{ content | safe }}
+        {{ content | default('404: Content Not Found') | safe }}
       </main>
       <div class="citation-container">
         {% for citation in citations %}
@@ -45,12 +51,18 @@
         {% endfor %}
       </div>
       <div class="button-container">
-        <a href="{{ file }}" download class="download-button">Download This Paper</a>
+        <a href="{{ file }}" download class="download-button">{{ button_text | default('Download This Paper') }}</a>
       </div>
     </div>
   {% endif %}
 
 {% include "footer.njk" %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    Prism.highlightAll();
+  });
+</script>
 
 </body>
 </html>
