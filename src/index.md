@@ -51,6 +51,6 @@ Additionally, I am deeply grateful to all my teachers and mentors who challenged
 
 Here I would like to take a moment to list all my teachers, and mentors, who have helped me along the way: Mr. Baker, Mrs. Claggett, Mr. Claggett, Mr. Daniels, Mrs. Elliot, Mr. Harrell, Mrs. Harlow, Mr. Jay, Mrs. Jill, Mrs. Klassa, Dr. Lung, Mrs. Mann, Mr. McLeod, Dr. Memmott, Mrs. Murrell, Mr. Nance, Mr. Piland, Dr. Postma, Mr. Santos, Mr. Slater, Mrs. Smith, Dr. Soderberg, Mr. Stalker, Mrs. Starr, Mr. Swait, Dr. Wolfe, Mrs. Woods, Dr. Woods, Mrs. Wright.
 
-<p id="bottom-spacer">Shadow Into #9</p>
+<p id="bottom-spacer">Shadow Into #8</p>
 
 ---
