@@ -3,7 +3,7 @@
   background-color: #3A4B4A;
   width: 100%;
   text-align: center;
-  color: white;
+  color: white !important;
   padding-top: 10px;
   padding-bottom: 10px;
 }
