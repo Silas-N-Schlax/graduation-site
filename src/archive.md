@@ -4,6 +4,7 @@ layout: "archive"
 title: "Project Archive"
 featured: [
   ["Send Silas a Note", "/messages"],
-  ["Test How Much you Know Silas", "/quiz"]
+  ["Test How Much you Know Silas", "/quiz"],
+  ["Academic Schedule", "/academic_schedule"]
 ]
 ---
