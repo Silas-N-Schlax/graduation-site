@@ -24,7 +24,7 @@ stylesheet: "/assets/css/messages.css"
     </p>
     <p>
       <label for="comments">Comments:</label><br/>
-      <textarea name="comments" id="comments" required></textarea>
+      <textarea name="comments" id="comments" placeholder="The journey goes 'through #7'" required></textarea>
     </p>
     <p>
       <input type="submit" value="Send Message" id="button">
