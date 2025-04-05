@@ -30,9 +30,6 @@
   font-weight: bold;
 }
 
-.archive-category--featured {
-  margin-bottom: 50px;
-}
 
 @media screen and (max-width: 600px) {
   .archive-category {
