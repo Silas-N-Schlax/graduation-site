@@ -14,7 +14,7 @@ try {
   const sortedContent = sortContent(content, contentDir);
   const sortedContent2 = sortContent(content2, contentDir2);
   const allSortedContent = { ...sortedContent2, ...sortedContent };
-  console.log(allSortedContent);
+  // console.log(allSortedContent);
   module.exports = allSortedContent;
 } catch (error) {
   console.error(`❌ Error loading pages from ${contentDir}:`, error);
