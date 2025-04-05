@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/_redirects");
   eleventyConfig.addPassthroughCopy("src/assets/files");
   eleventyConfig.addPassthroughCopy("src/assets/images"); 
+  eleventyConfig.addPassthroughCopy("src/The Story So Far")
 
   eleventyConfig.addCollection("all", function(collection) {
     return collection.getAll();
