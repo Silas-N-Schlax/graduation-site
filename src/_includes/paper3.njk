@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/paper.css">
+    <link rel="stylesheet" href="/assets/css/paper3.css">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/css/banner.css">
+
+    <link rel="icon" href="/assets/files/pfp.ico" type="image/x-icon">
+    <title>{{ page_title | default('404: Name Not Found') }}</title>
+  </head>
+  <body>
+    {% include "header.njk" %}
+
+    {% include "banner.njk" %}
+    
+    {% if content %}
+      <div class="content-container">
+        <h1>{{ title | default('404: Title Not Found') | safe }}</h1>
+        <div class="opening">
+          <p>{{ opening | default('Dear Reader,') }}</p>
+        </div>
+        <main>
+          {{ content | default('404: Content Not Found') | safe }}
+        </main>
+        <div class="footer-container">
+          <p>{{ closing | default("Your's Truly,") }}</p>
+          <p>{{ author | default('Silas Schlax') }}</p>
+          <p><i>{{ date_sub | default('February 22, 2007') }}</i></p>
+        </div>
+        <hr></hr>
+        <div class="citation-container">
+          {% for citation in citations %}
+          <p>
+            <sup>{{ loop.index }}</sup> {{ citation | safe }}
+          </p>
+        {% endfor %}
+        </div>
+        <div class="bibliography-container">
+          {% if bibliography %}
+            <h2>Bibliography</h2>
+          {% endif %}
+          {% for bibliography in bibliography %}
+            <p>{{ bibliography | safe }}</p>
+          {% endfor %}
+        </div>
+        <div class="buttons-container">
+          <a href="{{ next_page | default('/The Story So Far/preface') }}" class="next_button"><div>Next_Button</div></a>
+          <a href="{{ previous_page | default('/The Story So Far/preface') }}" class="previous_button"><div>Previous Button</div></a>
+          
+          <!-- <a href="{{ file }}" download class="download-button">{{ button_text | default('Download This Paper') }}</a> -->
+        </div>
+      </div>
+    {% endif %}
+
+    {% include "footer.njk" %}
+    
+  </body>
+</html>
