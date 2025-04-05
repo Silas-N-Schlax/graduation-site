@@ -3,20 +3,25 @@ const path = require("path");
 const matter = require("gray-matter");
 
 const contentDir = path.resolve(__dirname, "../content/");
+const contentDir2 = path.resolve(__dirname, "../The Story So Far/")
 
 try {
   const content = fs.readdirSync(contentDir);
+  const content2 = fs.readdirSync(contentDir2);
+
 
   // console.log(`✅ Loaded ${content.length} pages from ${contentDir}`);
-  const sortedContent = sortContent(content);
-  // console.log(sortedContent);
-  module.exports = sortedContent;
+  const sortedContent = sortContent(content, contentDir);
+  const sortedContent2 = sortContent(content2, contentDir2);
+  const allSortedContent = { ...sortedContent2, ...sortedContent };
+  console.log(allSortedContent);
+  module.exports = allSortedContent;
 } catch (error) {
   console.error(`❌ Error loading pages from ${contentDir}:`, error);
   module.exports = [];
 }
 
-function sortContent(content) {
+function sortContent(content, contentDir) {
   const nestedPages = {};
 
   content.forEach(file => {
