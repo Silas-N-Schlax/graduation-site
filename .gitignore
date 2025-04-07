@@ -4,3 +4,6 @@
 
 # Ignore Eleventy output folder
 _site/
+
+# Ignore random files
+TODO.md
