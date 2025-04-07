@@ -23,7 +23,11 @@
         {% if loop.last %}
           {% if milestones[5] === "right" %}
           <div class="timeline-components">
+            {% if milestones[2] === "" %}
+            <div class="timeline-date--right">{{milestones[1]}}, {{milestones[0]}}</div>
+          {% else %}
             <div class="timeline-date--right">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          {% endif %}
           </div>
           <div class="timeline-middle">
             <div class="timeline-point"></div>
@@ -31,42 +35,54 @@
           </div>
           <div class="timeline-components timeline-components-bg">
             <h2 class="timeline-title">{{milestones[3]}}</h2>
-            <p class="timeline-description">{{milestones[4]}}</p>
+            <p class="timeline-description">{{milestones[4] | safe }}</p>
           </div>
         {% else %}
           <div class="timeline-components timeline-components-bg">
             <h2 class="timeline-title">{{milestones[3]}}</h2>
-            <p class="timeline-description">{{milestones[4]}}</p>
+            <p class="timeline-description">{{milestones[4] | safe }}</p>
           </div>
           <div class="timeline-middle">
             <div class="timeline-point"></div>
             <div class="timeline-point timeline-point-bottom"></div>
           </div>
           <div class="timeline-components">
+            {% if milestones[2] === "" %}
+            <div class="timeline-date--left">{{milestones[1]}}, {{milestones[0]}}</div>
+          {% else %}
             <div class="timeline-date--left">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          {% endif %}
           </div>
       {% endif %}
         {% elseif milestones[5] === "right" %}
           <div class="timeline-components">
+          {% if milestones[2] === "" %}
+            <div class="timeline-date--right">{{milestones[1]}}, {{milestones[0]}}</div>
+          {% else %}
             <div class="timeline-date--right">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          {% endif %}
           </div>
           <div class="timeline-middle">
             <div class="timeline-point"></div>
           </div>
           <div class="timeline-components timeline-components-bg">
             <h2 class="timeline-title">{{milestones[3]}}</h2>
-            <p class="timeline-description">{{milestones[4]}}</p>
+            <p class="timeline-description">{{milestones[4] | safe }}</p>
           </div>
         {% else %}
         <div class="timeline-components timeline-components-bg">
           <h2 class="timeline-title">{{milestones[3]}}</h2>
-          <p class="timeline-description">{{milestones[4]}}</p>
+          <p class="timeline-description">{{milestones[4] | safe }}</p>
         </div>
         <div class="timeline-middle">
           <div class="timeline-point"></div>
         </div>
         <div class="timeline-components">
-          <div class="timeline-date--left">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          {% if milestones[2] === "" %}
+            <div class="timeline-date--left">{{milestones[1]}}, {{milestones[0]}}</div>
+          {% else %}
+            <div class="timeline-date--left">{{milestones[1]}} {{milestones[2]}}, {{milestones[0]}}</div>
+          {% endif %}
         </div>
         {% endif %}
       {% endfor %}

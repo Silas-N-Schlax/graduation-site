@@ -72,6 +72,18 @@
   text-indent: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #8a573f;
+}
+
+a:hover {
+
+  color: #8d6161;
+  text-decoration: underline;
+}
+
+
 @media (max-width: 768px) {
   body {
     overflow-x: hidden; 
