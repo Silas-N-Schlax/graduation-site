@@ -6,6 +6,7 @@ featured: [
   ["Send Silas a Note", "/messages"],
   ["Test How Much you Know Silas", "/quiz"],
   ["Academic Schedule", "/academic_schedule"],
+  ["Kepler Eccentric Magazine (I'm in 3!)", "https://kepler.education/eccentric/"],
   ["Easter Egg Challenge", "/easter_egg_challenge"]
 ]
 ---
