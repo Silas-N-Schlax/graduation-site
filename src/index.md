@@ -8,7 +8,7 @@ title: "Silas Schlax's Graduation Site"
 
 <h1 id="first">Silas's Educational Journey</h1>
 
-I have crafted a seven-part narrative that chronicles my educational journey, starting in middle school and extending to the present day. Each part will be shared individually, with new entries posted on weekdays, beginning April 16th. <a href = "/The Story So Far/preface">Click here to explore the story</a>.
+I have crafted a seven-part narrative that chronicles my educational journey, starting in middle school and extending to the present day. Each part will be shared individually, with new entries posted on weekdays, beginning April 16th. <a href = "/the-story-so-far/preface">Click here to explore the story</a>.
 
 
 # Post Graduation Plans
