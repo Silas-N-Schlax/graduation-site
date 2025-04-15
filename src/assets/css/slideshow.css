@@ -3,10 +3,13 @@
   width: 50%;
   margin: 0 auto;
   margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .slideshow iframe {
-  width: 100%;
+  width: 70%;
   border: none;
   margin: 0;
   padding: 0;
@@ -20,6 +23,7 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   background-color: #C2A68D;
+  padding: 10px;
 }
 
 .spacer {
@@ -37,5 +41,11 @@
   .slideshow {
     width: 98%;
     padding: 0;
+  }
+  .slideshow iframe {
+    width: 100%;
+  }
+  .video-title {
+    font-size: 1.5em;
   }
 }
