@@ -11,7 +11,7 @@ citations: [
   "Edmund Burke, “Reflections on the Revolution in France”, in <i>Poetry and Politics: Old Western Culture</i>, vol. 14, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2019), 199.",
 ]
 next_page: "/the-story-so-far/chapter-1"
-previous_page: "/the-story-so-far/preface"
+previous_page: "/the-story-so-far/chapter-7"
 ---
 
 You may be reading this and wondering, why did a graduate take the time to write a short essay about his experience so far?! My answer… I probably should not have written this. That being said, this is not only for the benefit of those reading—young or old—but my own. By writing this I am taking my thoughts and making them visible, as a dear teacher of mine once said: “good writing is clear thinking made visible” (Dr. Scott Postma). By making my thoughts, experiences, and reflections visible for all to see, all can learn from my mistakes, my accomplishments, and my discoveries. But most importantly, I have a written record of my thoughts to look back upon when I fall, to use as a good and bad example for those to come, and remember my past when the path narrows. 

@@ -1,0 +1,26 @@
+---
+category: "The Story So Far"
+page_title: "The Story So Far - Chapter 5"
+layout: "paper3"
+title: "Chapter 5: The Quite Lessons"
+author: "Silas N. Schlax"
+opening: "Dear Fellow Traveler,"
+closing: "Until Next Time,"
+date_sub: "April 18, 2025"
+citations: [
+  "Plato, “Nicomachean Ethics,” trans. D.B. Chase, in <i>The Philosophers: Old Western Culture</i>, vol. 4, eds. Daniel Foucachon and Wesley J. Callihan (Moscow, ID: Roman Roads Media, 2017), 678.",
+]
+next_page: "/the-story-so-far/chapter-6"
+previous_page: "/the-story-so-far/chapter-4"
+---
+
+For everything you do, whether you fail, succeed, or just barely meet the mark, you always learn something. Throughout my educational journey, I learned many things, but some of these lessons are more important to me and those to come after me. A large lesson I learned, is that all too often people you call “friends” turn out to be a facade, an illusion to benefit themselves. As Aristotle outlines in his Nicomachean Ethics, there are three types of Friendships, the first is that of utility. Friendships of utility, only existing for the benefit of one or the other. 
+> <p class="no-indent"> Friendship of utility is full of complaints; for as they use each other for their own interests they always want to get the better of the bargain, and think they have got less than they should, and blame their partners because they do not get all they ‘want and deserve’; and those who do well by others cannot help them as much as those whom they benefit want.<sup>1</sup></p>
+
+<p class="no-indent">These types of friendships rarely last, and more often than not hurt one or both parties involved. The second Aristotle outlines, is friendships of pleasure, this is where both friends find pleasure in each other's company or in something they commonly enjoy, but still seek to gain something. While friendships of pleasure are generally better and more fulfilling than those of utility, they can still ultimately end with discontentment and complaints. But the third type, that of virtue, is a friendship that will endure. This type of friendship does not need common interests, or benefits, you are friends because you both benefit each other, helping one another, strengthening one another, praising the other in times of victory, and fighting on their side in times of trials and tribulations. Aristotle says that friendships of virtue are the most fulfilling and enduring of the three, a perfect example of this is Christ, although Aristotle did not make this connection we can. Finally, Aristotle outlines a fourth type of Friendships, one he says cannot exist, that is friendship of vice. In short, the reason it cannot exist, is because a “friendship” built on vice, isn’t a friendship at all, rather it's a relation built on vice—sin—drowning both parties further. Think of the code of thieves, you don’t say anything about the others till is benefits you.  With that summary, friendships, true friendships, are hard to find, but all man needs them, as it says in Proverbs 27:17: “Iron sharpens iron, and one man sharpens another.” I like this quote by G. Randolf, “Truly great friends are hard to find, difficult to leave, and impossible to forget.” It's true, once you find that friend, and build a friendship of virtue, it will last a lifetime.</p>
+	
+Another thing I learned, is how to learn. Learning is not to memorize all the facts, taking the test, and forgetting nighty-percent of it. Nor is it to learn all the facts and retain it—although that can be part of it. True learning is the ability to think, to contemplate, and to arrive at the truth. As Albert Einstein once said: “Education is not the learning of facts, but the training of the mind to think.” To be educated, you have to be trained, to be equipped, and to be prepared for what lies ahead, not just know the facts to pass the test.
+
+A somewhat fun lesson I learned, is that sometimes the most memorable things, are the most absurd and silliest. One thing that comes to mind is when my first principle would lead Physical Education at Heritage, we would often do something he termed “walking club”, all we would do it walk, not run, walk around the parking lot, and talk, converse with each other and him. We made fun of it at the time, but I remember that compared to much of the other things we did, it is the small meaningful things that last. Another story I remember a skit I had to do for my eight grade graduation, at the time I hated public speaking of any kind—I still do but I am working at it. It was hard for me to get up there and do it in front of many people I had never met, but I did, and I still remember that to this day.
+
+Finally, I learned that having teachers that push you beyond your comfort zone is the best thing you can have. I had many teachers push me beyond my comfort zone, but a prominent one recently was my speech and debate teacher Dr. Memmott. She made me dress up for my speeches, and give many speeches in a short period of time, some memorized, some scripted, and yet more impromptu. She taught me to trust myself and help me gain courage in my skills in speaking in front of others. While it took me many years to learn these lessons, I hope someone takes something from these lessons I learned.
