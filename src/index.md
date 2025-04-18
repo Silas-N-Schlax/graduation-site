@@ -13,7 +13,9 @@ I have crafted a seven-part narrative that chronicles my educational journey, st
 
 # Post Graduation Plans
 
-After graduation, I plan on taking a gap year to work full-time at <a target = "_blank" href = "https://www.bulkogi.com">Bulkogi</a> and save up to hopefully attend the Role Model Software’s Craftsmanship Academy in June 2026. During this year, I also hope to spend some time hiking and biking, enjoying the outdoors and staying active. One of the key reasons I chose the Craftsmanship Academy is that it offers an opportunity to learn without incurring debt, and there's also the potential for employment at the end of the program. Beyond saving up for the academy, my plans are still in the works, but I’m focused on working and preparing for the next step in my career, and life.
+<!-- <a target = "_blank" href = "https://www.bulkogi.com">Bulkogi</a> -->
+
+After graduation, I plan on taking a gap year to work full-time at <a target = "_blank" href = "https://boxyard.rtp.org/vendors/bulkogi/">Bulkogi</a> and save up to hopefully attend the Role Model Software’s Craftsmanship Academy in June 2026. During this year, I also hope to spend some time hiking and biking, enjoying the outdoors and staying active. One of the key reasons I chose the Craftsmanship Academy is that it offers an opportunity to learn without incurring debt, and there's also the potential for employment at the end of the program. Beyond saving up for the academy, my plans are still in the works, but I’m focused on working and preparing for the next step in my career, and life.
 
 
 # Graduation Ceremony Details
@@ -38,7 +40,19 @@ You are all warmly invited to attend my graduation if you would like to be a par
 
 # Note from John and Deana
 
-To be uploaded by April 30, 2025!
+Dear Silas,
+Watching you graduate fills my heart with so much pride we can hardly put it into words. From the time you were little, your eagerness to help and your curiosity for the world around you stood out. Whether it was lending a hand with tech issues or whipping up something delicious in the kitchen, you’ve always jumped in with heart, skill, and a smile.
+
+We’ve seen how hard you worked in school—even when it wasn’t easy. You kept going, stayed focused, and never gave up. That kind of determination is rare, and it’s something you carry with you in everything you do.
+
+Some of our favorite memories are watching you dream up fun and creative projects—your ideas were always uniquely you. And we loved every moment of helping bring those ideas to life. It wasn’t just about the project; it was about getting a glimpse into your amazing mind and heart.
+
+You’ve grown into someone we deeply admire—not just for what you’ve accomplished, but for the kind and thoughtful person you are. We’re incredibly proud of you, Silas. Keep being curious. Keep being you. The world is lucky to have you in it.
+
+With all my love,
+
+Mom and Dad
+
 
 # Note from Silas
 
