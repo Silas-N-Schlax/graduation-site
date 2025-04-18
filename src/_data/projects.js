@@ -3,7 +3,7 @@ const path = require("path");
 const matter = require("gray-matter");
 
 const contentDir = path.resolve(__dirname, "../content/");
-const contentDir2 = path.resolve(__dirname, "../The Story So Far/")
+const contentDir2 = path.resolve(__dirname, "../The-Story-So-Far/")
 
 try {
   const content = fs.readdirSync(contentDir);
@@ -11,8 +11,13 @@ try {
 
 
   // console.log(`✅ Loaded ${content.length} pages from ${contentDir}`);
-  const sortedContent = sortContent(content, contentDir);
-  const sortedContent2 = sortContent(content2, contentDir2);
+  const sortedContent = sortContent(content, contentDir, "content/");
+  const sortedContent2 = sortContent(content2, contentDir2, "The-Story-So-Far/");
+  //move preface from last to first
+  const category = sortedContent2["The Story So Far"];
+  const preface = category.pop();
+  category.unshift(preface);
+  
   const allSortedContent = { ...sortedContent2, ...sortedContent };
   // console.log(allSortedContent);
   module.exports = allSortedContent;
@@ -21,7 +26,7 @@ try {
   module.exports = [];
 }
 
-function sortContent(content, contentDir) {
+function sortContent(content, contentDir, url) {
   const nestedPages = {};
 
   content.forEach(file => {
@@ -40,7 +45,7 @@ function sortContent(content, contentDir) {
       nestedPages[data.category].push({
         filename: file,
         title: data.title,
-        url: `/content/${file.split('.').slice(0, -1).join('.')}`,
+        url: `/${url}${file.split('.').slice(0, -1).join('.')}`,
       });
     } catch (error) {
       console.error(`❌ Error reading or parsing file: ${file}`, error);
