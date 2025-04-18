@@ -23,5 +23,3 @@ For those younger than me, I hope you get something out of this, whether that be
 
 
 
-
-
