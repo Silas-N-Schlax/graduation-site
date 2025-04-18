@@ -14,9 +14,13 @@ stylesheet: "/assets/css/messages.css"
       <label for="name">Name:</label>
       <input type="text" name="name" id="name" placeholder="Please put your name here" required>
     </p>
-        <p>
+    <p>
       <label for="relation">Relation:</label>
       <input type="text" name="relation" id="name" placeholder="Please put your relation to the graduate here">
+    </p>
+    <p>
+      <label for="relation">Concent:</label>
+      <input type="text" name="concent" id="name" placeholder="Type 'yes' if you give concent to post this publicly!">
     </p>
     <p>
       <label for="picture">Profile Picture:</label>
