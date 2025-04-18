@@ -6,7 +6,7 @@ title: "Chapter 2: The Journey Begins"
 author: "Silas N. Schlax"
 opening: "Dear Fellow Traveler,"
 closing: "Until Next Time,"
-date_sub: "April 18, 2025"
+date_sub: "April 16, 2025"
 citations: [
   "“The Right Kind of Education,” Scott Postma, last modified July 7, 2021, https://scottpostma.net/2021/07/01/the-right-kind-of-education/.",
 ]

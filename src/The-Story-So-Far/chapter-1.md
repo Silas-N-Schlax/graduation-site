@@ -6,7 +6,7 @@ title: "Chapter 1: The Seeds of Becoming"
 author: "Silas N. Schlax"
 opening: "Dear Fellow Traveler,"
 closing: "Until Next Time,"
-date_sub: "April 17, 2025"
+date_sub: "April 15, 2025"
 next_page: "/the-story-so-far/chapter-2"
 previous_page: "/the-story-so-far/preface"
 ---

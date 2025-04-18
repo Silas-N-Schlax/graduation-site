@@ -6,7 +6,7 @@ title: "Preface: The Beginnings of a Thought"
 author: "Silas N. Schlax"
 opening: "Dear Fellow Traveler,"
 closing: "Until Next Time,"
-date_sub: "April 15, 2025"
+date_sub: "April 14, 2025"
 citations: [
   "Edmund Burke, “Reflections on the Revolution in France”, in <i>Poetry and Politics: Old Western Culture</i>, vol. 14, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2019), 199.",
 ]
