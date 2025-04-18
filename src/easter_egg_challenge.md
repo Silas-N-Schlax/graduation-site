@@ -13,5 +13,5 @@ I will let you know that each clue will be one or two words, never more. And eac
 ### Clues (Hints): 
 <i>There may be a two week delay while I am traveling, but I will try my best!</i>
 
-1. I hid a button somewhere, find it!
-   - You'll get this on Friday!
+1. <a href="/ceremony">Ceremony</a>
+   - I hid a button somewhere, find it!
