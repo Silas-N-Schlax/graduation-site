@@ -20,7 +20,7 @@ stylesheet: "/assets/css/messages.css"
     </p>
     <p>
       <label for="relation">Concent:</label>
-      <input type="text" name="concent" id="name" placeholder="Type 'yes' if you give concent to post this publicly!">
+      <input type="text" name="concent" id="name" placeholder="Type 'yes' if you give concent to post this publicly!" required>
     </p>
     <p>
       <label for="picture">Profile Picture:</label>
