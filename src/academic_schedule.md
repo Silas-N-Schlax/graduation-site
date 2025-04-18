@@ -114,6 +114,9 @@ title: "Academic Schedule"
 - Student Council President
 - Self-paced Programming
 
+### Employment
+- NC Bulkogi - Line Cook
+
 ---
 
 # Grade 12
@@ -132,4 +135,6 @@ title: "Academic Schedule"
 - Yearbook Committee Chairman
 - Self-paced Programming
 
+### Employment
+- NC Bulkogi - Assistant Manager
 ---
