@@ -1,5 +1,4 @@
 let sayingsFor404 =  [
-  "Congratulations! You've found the second easter egg! Your reward is... nothing! Ok, maybe not nothing, this is what you get: 'journey to'",  
   "'All we like sheep have gone astray...' (Isaiah 53:6), and apparently, so has this page. Perhaps it has been lost to the sands of time, like the Library of Alexandria, or maybe it never existed at all!",
   "David Hume might argue that since you have never observed this page existing before, you have no rational basis to believe it ever did. But take heart! Unlike Hume’s skepticism, objective truth does exist—you’re just looking in the wrong place.",
   "O lost one, thou hast wandered beyond the known realm.",
@@ -43,7 +42,8 @@ let sayingsFor404 =  [
   "The scribe said he’d ‘totally finish it in the morning.’ That was twelve harvests ago.",
   "One page to rule them all, one page to find them, one page to bring them all and in the server bind them… but this is not that page.",
   "One link to bring them all and in confusion blind them—your journey ends here, brave wanderer.",
-  "Three pages for the devs under starry code, seven for the admins in their halls of stone… and one was lost. This one."
+  "Three pages for the devs under starry code, seven for the admins in their halls of stone… and one was lost. This one.",
+  "Congratulations! You've found the second easter egg! Your reward is... nothing! Ok, maybe not nothing, this is what you get: 'journey to'",  
 ];
 
 
