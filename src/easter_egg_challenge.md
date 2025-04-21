@@ -15,3 +15,4 @@ I will let you know that each clue will be one or two words, never more. And eac
 
 1. <a href="/ceremony">Ceremony</a>
    - I hid a button somewhere, find it!
+2. <a href="/404">404</a>
