@@ -35,7 +35,7 @@ In the meantime, if you're interested in exploring some of my academic accomplis
   <p><span>Location:</span> <a target = "_blank" href = "https://maps.app.goo.gl/FFeyPao91tnPSCG37">Cornerstone Fellowship Church Apex</a></p>
 </div>
 
-You are all warmly invited to attend my graduation if you would like to be a part of this special moment. Please note that it will be a longer event, so I recommend planning accordingly to ensure you're able to fully enjoy the experience. The ceremony may be recorded, and if it is, I will post the recording on this website once I have access to it. I suggest checking back the Monday following the ceremony for the video. I look forward to sharing this milestone with all of you, whether in person or through the recording, if available!
+You are all warmly invited to attend my graduation if you would like to be a part of this special moment. Please note that it will be a longer event, so I recommend planning accordingly to ensure you're able to fully enjoy the experience. <strong>Note, I am towards the end of the event, if you do not wish to watch the entire ceremony, you can come later (Not sure an exact time, but I am student 13/16).</strong> The ceremony may be recorded, and if it is, I will post the recording on this website once I have access to it. I suggest checking back the Monday following the ceremony for the video. I look forward to sharing this milestone with all of you, whether in person or through the recording, if available!
 
 
 # Note from John and Deana
