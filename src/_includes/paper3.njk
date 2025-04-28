@@ -51,10 +51,8 @@
           {% endfor %}
         </div>
         <div class="buttons-container">
-          <a href="{{ previous_page | default('/The Story So Far/preface') }}" class="previous_button"><div>Previous Button</div></a>
-          <a href="{{ next_page | default('/The Story So Far/preface') }}" class="next_button"><div>Next Button</div></a>
-          
-          <!-- <a href="{{ file }}" download class="download-button">{{ button_text | default('Download This Paper') }}</a> -->
+          <a href="{{ previous_page | default('/The Story So Far/preface') }}" class="previous_button"><div>Previous</div></a>
+          <a href="{{ next_page | default('/The Story So Far/preface') }}" class="next_button"><div>Next</div></a>
         </div>
       </div>
     {% endif %}

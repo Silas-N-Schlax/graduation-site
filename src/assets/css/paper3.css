@@ -30,3 +30,13 @@
   border-radius: 8px;
   color: #4A3F35;
 }
+
+@media (max-width: 768px) {
+  .footer-container p {
+    font-size: 16px;
+  }
+  .buttons-container a {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}
