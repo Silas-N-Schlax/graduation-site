@@ -17,5 +17,5 @@ I will let you know that each clue will be one or two words, never more. And eac
   - I hid a button somewhere, find it!
 2. <a href="/404">404</a>
   - Try Reloading ;)  
-3. <a href="/milestone">Milestone</a>
-  - Uploading on Thursday (5/1/25)!
+3. <a href="/content/schlax_silas_the_history_of_gunpowder_Chemestry">An Essay</a>
+  - Bolded Text ;)
