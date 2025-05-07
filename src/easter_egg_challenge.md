@@ -19,3 +19,5 @@ I will let you know that each clue will be one or two words, never more. And eac
   - Try Reloading ;)  
 3. <a href="/content/schlax_silas_the_history_of_gunpowder_Chemestry">An Essay</a>
   - Bolded Text ;)
+4. <a href="/archive">Archive</a>
+  - Try hovering over some things!
