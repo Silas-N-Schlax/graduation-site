@@ -6,7 +6,7 @@ title: "Christian's Should Read Old Books to Navigate Culture"
 student: "Schlax, Silas"
 class: "<a target='_blank' href='https://kepler.education/courses/47f2f3fb-247f-471c-9b4b-5a2071e17e82'>OWC: Early Moderns</a>, 11:00 am EST"
 instructor: "Dr. Gregory Soderberg, Instructor"
-date_sub: "October 18, 2025"
+date_sub: "October 18, 2024"
 citations: [
   "Dr. Scott Postma. <i>Christianity and Culture: Recovering Christian Humanism in the Twenty-First Century</i> (class lectures, Kepler Education, Moscow, ID, Full Year 2023-2024).",
   "Dr. Scott Postma. <i>The Romans: Old Western Culture</i> (class lectures, Kepler Education, Moscow, ID, Full Year 2022-2023).",
