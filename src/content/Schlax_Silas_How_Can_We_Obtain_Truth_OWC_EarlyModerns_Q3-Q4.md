@@ -7,6 +7,28 @@ student: "Schlax, Silas"
 class: "<a target='_blank' href='https://kepler.education/courses/47f2f3fb-247f-471c-9b4b-5a2071e17e82/'>OWC: Early Moderns</a>, 11:00 pm EST"
 instructor: "Dr. Gregory Soderberg, Instructor"
 date_sub: "May 9, 2025"
+citations: [
+  "John 14:6 (ESV).",
+  "Timothy 3:16 (ESV).",
+  "Emmanuel Kant, “What is Enlightenment?”, trans. Mary Campbell Smith, in <i>The Enlightenment: Old Western Culture</i>, vol. 15, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 1-2.",
+  "Kant, “What is Enlightenment”, 1.",
+  "John Milton, <i>Paradise Lost</i> in <i>Rise of England: Old Western Culture</i>, vol. 12, eds. Daniel Foucachon and Claire Escalante (Moscow, ID: Roman Roads Press, 2019), 641.",
+  "Milton, <i>Paradise Lost</i>, 755.",
+  "Milton, <i>Paradise Lost</i>, 755-776.",
+  "Milton, <i>Paradise Lost</i>, 675.",
+  "Alexander Pope, <i>An Essay on Man</i> in <i>Poetry and Politics: Old Western Culture</i>, vol. 14, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 48.",
+  "Pope, <i>An Essay on Man</i>, 48.",
+  "Pope, <i>An Essay on Man</i>, 39.",
+  "Edmund Burke, <i>Reflections on the Revolution in France</i> in <i>Poetry and Politics: Old Western Culture</i>, vol. 14, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 199.",
+  "Burke, <i>Reflections on the Revolution in France</i>, 268.",
+  "William Shakespeare, “Sonnet 60” in <i>Rise of England: Old Western Culture</i>, vol. 12, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2019), 3.",
+  "William Shakespeare, “Sonnet 55” in <i>Rise of England: Old Western Culture</i>, vol. 12, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2019), 2.",
+  "William Shakespeare, <i>King Lear</i> in <i>Rise of England: Old Western Culture</i>, vol. 12, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2019), Act II, 44.",
+  "Alexis De Tocqueville, <i>Democracy in America</i> in <i>Poetry and Politics: Old Western Culture</i>, vol. 13, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 464.",
+  "David Hume, <i>An Enquiry Concerning Human Understanding</i> in <i>The Enlightenment: Old Western Culture</i>, vol. 13, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 246.",
+  "René Descartes, <i>Discourse on Method</i> in <i>The Enlightenment: Old Western Culture</i>, vol. 13, ed. Daniel Foucachon (Moscow, ID: Roman Roads Press, 2021), 127.",
+  "Descartes, <i>Discourse on Method</i>, 127-28."
+]
 bibliography: [
   "Saint Augustine. <i>Confessions</i>. Translated by E. B. Pusey. Moscow Idaho: Roman Roads Press, 2021.",
   "Burke, Edmund. <i>Reflections on the Revolution in France</i>. In <i>Poetry and Politics: Old Western Culture</i>, Vol. 14, edited by Daniel Foucachon, 199. Moscow, ID: Roman Roads Press, 2021.",
