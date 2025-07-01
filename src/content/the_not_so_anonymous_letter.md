@@ -10,7 +10,7 @@ date_sub: "November 4, 2024"
 file: "../../assets/files/pdf/the_not_so_anonymous_letter.pdf"
 ---
 
-<div id="notes"><i>I wrote this letter to all the graduates in my graduating class, my goal was for it to be an anonymous letter or note of encouragement to everyone—including myself—but alas that did not work out as withing a day the entire class knew it was me—some quicker then others. Before you read on, I want to give a brief explanation of why I wrote this. I wrote this as I wrote my "<a href="/../The-Story-So-Far/preface/">7-part story</a>" to give myself something to look back on, but also as a tool to be used by those to come. This is why I am uploading it to this website, to make it more available for others to read. I have also included some more thoughts I could not fit on my one page, I hope you find this helpful!</i></div>
+<div id="notes"><i>I wrote this letter to all the graduates in my graduating class, my goal was for it to be an anonymous letter or note of encouragement to everyone—including myself—but alas that did not work out as within a day the entire class knew it was me—some quicker then others. Before you read on, I want to give a brief explanation of why I wrote this. I wrote this as I wrote my "<a href="/../The-Story-So-Far/preface/">7-part story</a>" to give myself something to look back on, but also as a tool to be used by those to come. This is why I am uploading it to this website, to make it more available for others to read. I have also included some more thoughts I could not fit on my one page, I hope you find this helpful!</i></div>
 
 Dear Fellow Traveler,
 
