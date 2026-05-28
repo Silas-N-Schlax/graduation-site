@@ -6,7 +6,7 @@ title: "The Not So Anonymous Letter"
 student: "Silas Schlax"
 class: "Personal Writings"
 instructor: "Silas Schlax, Author"
-date_sub: "November 4, 2024"
+date_sub: "November 4, 2025"
 file: "../../assets/files/pdf/the_not_so_anonymous_letter.pdf"
 ---
 
