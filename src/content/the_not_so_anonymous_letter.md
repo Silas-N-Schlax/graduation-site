@@ -5,7 +5,7 @@ layout: "paper"
 title: "The Not So Anonymous Letter"
 student: "Silas Schlax"
 class: "Personal Writings"
-instructor: "Silas Schalx, Author"
+instructor: "Silas Schlax, Author"
 date_sub: "November 4, 2024"
 file: "../../assets/files/pdf/the_not_so_anonymous_letter.pdf"
 ---
